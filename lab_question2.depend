@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1607402462 source:c:\users\msis\documents\201046008\lab_question2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"student.h"
+
+1607401173 c:\users\msis\documents\201046008\lab_question2\student.h
+	<stdint.h>
+	"const.h"
+
+1607399464 c:\users\msis\documents\201046008\lab_question2\const.h
+	<stdint.h>
+
+1607399140 c:\users\msis\documents\201046008\lab_question2\slist.c
+	<stdlib.h>
+	<assert.h>
+	"student.h"
+
+1607402324 source:c:\users\msis\documents\201046008\lab_question2\slist.c
+	<stdlib.h>
+	<assert.h>
+	"student.h"
+
